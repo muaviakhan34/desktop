@@ -1,0 +1,38 @@
+ <!DOCTYPE HTML>
+<html>
+<head>
+<title>portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+<div class="sidebar">
+<nav>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="intro.html">Intro</a></li>
+<li><a href="services.html">Services</a></li>
+<li><a href="CV.html">CV</a></li>
+<li> <a href="contact.html">Contact me</a></li>
+</ul>
+</nav>
+</div>
+<div class="main">
+    <div class="infocontainer">
+          <div class="devinfo"> 
+	<div class="hello">Hi I am </div>
+	<div class="name">Muavia Khan</div>
+	<div class="about">Developer,owner,Entrepenuer</div>
+	<div class="moreabout"> I am a developer who loves to develop new pages and design it</div>
+
+		<div class="buttons">
+		<button>Download CV</button>
+		<button>Contact me</button>
+</div>
+</div>
+<div class="devpic"><img src="pic1.png" alt="Muavia"></div>
+</div>
+</div>
+</div>
+</div>
+</body>
