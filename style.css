@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Source+Serif+Pro&display=swap');
+
+*{
+margin:0;
+padding:0;
+}
+
+.sidebar{
+background-color: grey;
+width: 13vw;
+font-family: 'Roboto Slab', serif;
+}
+
+.sidebar nav{
+padding:25px;
+height:100vh;
+}
+si
+
+.sidebar nav li{
+list-style:none;
+font-size: 26px;
+padding: 26px 0;
+}
+
+.sidebar nav li a{
+text-decoration:none;
+color:white;
+}
+
+.main{
+background-color:white;
+width:87vw;
+}
+
+.container{
+display: flex;
+}
+
+.infocontainer{
+display:flex;
+background-color:white;
+height:50vh;
+width:80vw;
+margin: auto;
+    margin-top: 118px;
+justify-content: space-around;
+}
+
+.devinfo{
+display:flex;
+flex-direction: column;
+justify-content: center;
+font-family: 'Source Serif Pro', serif;
+}
+
+.hello{
+font-size:60px;
+}
+.name{
+font-size:50px;
+font-weight:bold;
+}
+
+.about{
+font-size:42px;
+
+}
+
+.moreabout{
+font-size:25
+font-family: 'Source Serif Pro', serif;
+}
+
+.buttons{
+margin-top:30px;
+}
+
+.buttons button{
+padding:10px;
+border-radius:30px;
+font-weight:bold;
+color:white;
+background-color:grey;
+margin: 0 0 0 15px;
+cursor:pointer;
+}
+
+.buttons button:hover{
+background-color:white;
+color:grey;
+}
+
+.devpic img{
+width: 25vw;
+height: 50vh;
+}
+
